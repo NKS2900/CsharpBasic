@@ -1,0 +1,13 @@
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\bin\Debug\netcoreapp3.1\DayFirstApp.exe
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\bin\Debug\netcoreapp3.1\DayFirstApp.deps.json
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\bin\Debug\netcoreapp3.1\DayFirstApp.runtimeconfig.json
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\bin\Debug\netcoreapp3.1\DayFirstApp.runtimeconfig.dev.json
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\bin\Debug\netcoreapp3.1\DayFirstApp.dll
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\bin\Debug\netcoreapp3.1\DayFirstApp.pdb
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.csprojAssemblyReference.cache
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.AssemblyInfoInputs.cache
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.AssemblyInfo.cs
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.dll
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.pdb
+C:\Users\NKS\source\repos\DayFirstApp\DayFirstApp\obj\Debug\netcoreapp3.1\DayFirstApp.genruntimeconfig.cache
